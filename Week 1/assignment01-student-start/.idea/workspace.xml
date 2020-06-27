@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5cc98615-8a4b-4530-a813-ca325b1c0d83" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XTkgjBVM2czopG414MLJTOJZBb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cc98615-8a4b-4530-a813-ca325b1c0d83" name="Default Changelist" comment="" />
+      <created>1581077584766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581077584766</updated>
+      <workItem from="1581077589034" duration="152000" />
+      <workItem from="1581077755492" duration="559000" />
+      <workItem from="1581078456112" duration="76000" />
+      <workItem from="1581679591552" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581077988512">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="449" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.27.1858.1053@62.27.1858.1053" timestamp="1581077988512" />
+    <state x="723" y="339" width="525" height="435" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581077977056">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="723" y="339" width="525" height="435" key="#com.intellij.ide.util.TreeClassChooserDialog/62.27.1858.1053@62.27.1858.1053" timestamp="1581077977056" />
+    <state x="647" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1581679593647">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="647" y="380" key="com.intellij.ide.util.TipDialog/62.27.1858.1053@62.27.1858.1053" timestamp="1581679593647" />
+  </component>
+</project>
