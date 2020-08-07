@@ -1,6 +1,6 @@
 # RU-Object-Ortiented-Programming
 
-This repository contains all exercises from the course Object Oriented Programming at Radboud University. ALl exercises are written in Java.
+This repository contains all exercises from the course Object Oriented Programming at Radboud University. All exercises are written in Java.
 
 Here is a list of design patterns I had to implement:
  -  Visitor Pattern
